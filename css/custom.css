@@ -20,3 +20,11 @@
     height: 180px;
     object-fit: cover;
   }
+
+  .breadcrumb {
+    --bs-breadcrumb-divider-color: #fff;
+  }
+
+  .bg-opacity-90 {
+    --bs-bg-opacity: 0.9;
+  }
